@@ -21,3 +21,7 @@ sudo apt install libglu1-mesa-dev freeglut3-dev
 ```
 
 **Demo**
+
+
+https://github.com/user-attachments/assets/66cfee15-6a36-4080-bc77-e11ab5094848
+
