@@ -1,0 +1,11 @@
+cmake-build-debug/
+
+cmake-build-release/
+
+.vscode/
+
+build/
+
+*.log
+matlabReadDataScript.txt
+*/__pycache__/

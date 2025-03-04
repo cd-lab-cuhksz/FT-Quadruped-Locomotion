@@ -1,0 +1,74 @@
+{
+   "FL_hip_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "FL_thigh_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "FL_calf_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "FR_hip_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "FR_thigh_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "FR_calf_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RL_hip_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RL_thigh_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RL_calf_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RR_hip_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RR_thigh_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   },
+   "RR_calf_joint": {
+      "PVT_LPF_Fc": 20,
+      "kp": 200.0,
+      "kd": 10.0,
+      "maxTorque": 33.5
+   }
+}
